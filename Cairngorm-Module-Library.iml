@@ -35,7 +35,6 @@
     <orderEntry type="library" exported="" name="livecycle-libs" level="project" />
     <orderEntry type="library" exported="" name="libs" level="project" />
     <orderEntry type="module" module-name="Parsley-Core-Library" exported="" />
-    <orderEntry type="module" module-name="Legacy-Spicelib-Tasks-Library" exported="" />
   </component>
 </module>
 

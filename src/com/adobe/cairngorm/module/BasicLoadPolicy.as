@@ -28,7 +28,7 @@ package com.adobe.cairngorm.module
 
     public class BasicLoadPolicy implements ILoadPolicy
     {
-        private var loader:IViewLoader;
+        protected var loader:IViewLoader;
 
         private var filter:StageEventFilter;
 
